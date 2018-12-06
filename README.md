@@ -1,1 +1,1 @@
-"# IdentityServer4 using Bearer With Clients" 
+# IdentityServer4 using Bearer With Clients
