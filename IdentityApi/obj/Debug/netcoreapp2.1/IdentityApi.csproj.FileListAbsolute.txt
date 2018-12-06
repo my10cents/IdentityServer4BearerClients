@@ -1,0 +1,14 @@
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\bin\Debug\netcoreapp2.1\IdentityApi.deps.json
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\bin\Debug\netcoreapp2.1\IdentityApi.runtimeconfig.json
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\bin\Debug\netcoreapp2.1\IdentityApi.runtimeconfig.dev.json
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\bin\Debug\netcoreapp2.1\IdentityApi.dll
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\obj\Debug\netcoreapp2.1\IdentityApi.csprojAssemblyReference.cache
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\obj\Debug\netcoreapp2.1\IdentityApi.csproj.CoreCompileInputs.cache
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\obj\Debug\netcoreapp2.1\IdentityApi.RazorAssemblyInfo.cache
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\obj\Debug\netcoreapp2.1\IdentityApi.RazorAssemblyInfo.cs
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\obj\Debug\netcoreapp2.1\IdentityApi.AssemblyInfoInputs.cache
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\obj\Debug\netcoreapp2.1\IdentityApi.AssemblyInfo.cs
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\obj\Debug\netcoreapp2.1\IdentityApi.RazorTargetAssemblyInfo.cache
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\bin\Debug\netcoreapp2.1\IdentityApi.pdb
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\obj\Debug\netcoreapp2.1\IdentityApi.dll
+C:\Users\fernando.vilhena\source\repos\IdentityServerWithBearer\IdentityApi\obj\Debug\netcoreapp2.1\IdentityApi.pdb
